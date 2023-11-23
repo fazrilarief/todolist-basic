@@ -1,0 +1,6 @@
+@include('includes.meta')
+@include('includes.style')
+@include('includes.header')
+@yield('content')
+@include('includes.footer')
+@include('includes.script')
